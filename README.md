@@ -6,3 +6,5 @@ VS Code extension that sends selected code or line to REPL in terminal.
 
 * Sends selected code to REPL in terminal. Hotkey – `Ctrl+Enter`.
 * Sends single line code to REPL in terminal. Hotkey – `Alt+Enter`.
+
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=shixiongfei.vscode-runrepl)
