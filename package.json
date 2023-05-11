@@ -7,7 +7,7 @@
   "repository": "https://github.com/shixiongfei/vscode-runrepl",
   "icon": "images/icon.png",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.78.0"
   },
   "categories": [
     "Other"
